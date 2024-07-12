@@ -1,4 +1,8 @@
-Assets folders:
+Assets folder:
 
-Bravo: https://www.dropbox.com/scl/fo/yoyxzsyy3dsg2sduk3zlk/ADHPkyKaL63y0AB0VAoRxiM?rlkey=8fyozsjcaaqdy145yug6hlnue&dl=0
-John: https://drive.google.com/drive/folders/1ApCNGptW2rUukyZlSpw6MeMzk1TM9ASE?usp=drive_link
+Add the following folders to the root folder of dance-machine: Assets/Photos + Assets/Videos
+
+Assets/Videos should contain folders: IDLES, DANCE1, DANCE2
+As well as the file: BEACH_1Dancer_Tutorial_v03a
+
+Bravo Assets 07/08/24: https://www.dropbox.com/scl/fo/za1jtpdvwzxysa0atd5j5/AKEHfF7-66BKnWwXz86M_T4?rlkey=a27ajtuk51a46tz7xwu95n0xp&dl=0
